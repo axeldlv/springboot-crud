@@ -1,7 +1,7 @@
 # Spring Boot CRUD
 Spring Boot application to use CRUD operation.
 
-Status : [![Build Status](https://travis-ci.org/axldlv/springbootcrud.svg?branch=master)](https://travis-ci.org/axldlv/springbootcrud)
+Status : [![Build Status](https://travis-ci.org/axeldlv/springbootcrud.svg?branch=master)](https://travis-ci.org/axeldlv/springbootcrud)
 
 - **FRONT** : Thymeleaf
 - **BACK** : Spring Boot 1.5.7
